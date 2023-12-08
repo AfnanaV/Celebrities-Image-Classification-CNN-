@@ -1,0 +1,8 @@
+Numpy
+OpenCV-Python
+os
+tensorflow
+Pillow
+scikit-learn
+Keras
+tqdm
